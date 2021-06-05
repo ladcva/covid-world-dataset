@@ -15,7 +15,9 @@ our data comes from the European Centre for Disease Prevention and Control (ECDC
 this data is collected by the Our World in Data team from official reports; you can find further details in our post on COVID-19 testing, including our checklist of questions to understand testing data, information on geographical and temporal coverage, and detailed country-by-country source information. The testing dataset is updated around twice a week.
 
 **Acknowledgements**
+
 Our World in Data GitHub repository for covid-19.
 
 **Inspiration**
+
 All we love data, cause we love to go inside it and discover the truth that's the main inspiration I have.
